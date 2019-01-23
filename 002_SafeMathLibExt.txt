@@ -1,0 +1,31 @@
+Token name: GCoin
+
+Token ticker: GAGAN
+
+Token decimals: 1
+
+Multisig wallet address: 0x7fEbc252aa236a3D69a667985260F3610C245fe0
+
+*****************************
+
+Crowdsale rate: 1
+
+Crowdsale start time: 2018-12-21T19:24 (GMT + 5.5)
+
+Crowdsale end time: 2018-12-25T00:00 (GMT + 5.5)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+SafeMathLib library name: SafeMathLibExt
+
+SafeMathLib library address: 0x21cf796658f0BbFB1f20C519cf6383E22F0A5cCb
+
+*****************************
+
+****SafeMathLib contract ABI:**** 
+
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"times","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"plus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"divides","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"minus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"}]
